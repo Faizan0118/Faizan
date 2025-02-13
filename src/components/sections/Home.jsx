@@ -14,7 +14,7 @@ export const Home = () => {
             </h1>
 
             <p className="text-gray-300 text-lg mb-8 leading-relaxed">
-              A CCNA-certified Network Engineer and Full Stack Developer with a passion 
+              A Network Engineer and Full Stack Developer with a passion 
               for building secure, scalable solutions. I combine networking expertise 
               with development skills and technical writing to create comprehensive 
               IT solutions. Focused on network optimization, web development, and 
