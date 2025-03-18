@@ -10,7 +10,7 @@ export const Home = () => {
         <RevealOnScroll>
           <div className="max-w-2xl">
             <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-emerald-400 to-teal-500 bg-clip-text text-transparent leading-tight">
-              Hello, I'm Asma Ali
+              Hello, I'm Gulalay Bibi
             </h1>
 
             <p className="text-gray-300 text-lg mb-8 leading-relaxed">
