@@ -46,11 +46,11 @@ export const Home = () => {
             <div className="relative w-full aspect-square max-w-md mx-auto">
               <div className="absolute inset-0 bg-gradient-to-br from-emerald-400/20 to-teal-500/20 rounded-2xl -z-10 blur-xl transform rotate-3"></div>
               <div className="w-full h-full rounded-2xl overflow-hidden border-2 border-emerald-500/20 relative">
-                <img
-{/*                   src="https://res.cloudinary.com/diwerulix/image/upload/v1739447416/fai_m1txbt.jpg"
+{/*                 <img
+                  src="https://res.cloudinary.com/diwerulix/image/upload/v1739447416/fai_m1txbt.jpg"
                   alt="Muhammad Faizan - Network Engineer"
-                  className="w-full h-full object-cover object-center transform transition-transform duration-500 hover:scale-105" */}
-                />
+                  className="w-full h-full object-cover object-center transform transition-transform duration-500 hover:scale-105"
+                /> */}
               </div>
             </div>
           </div>
