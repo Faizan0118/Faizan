@@ -13,9 +13,9 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
             href="#home" 
             className="font-mono text-xl font-bold"
           >
-            Gulalay
+            Muhammad
             <span className="bg-gradient-to-r from-emerald-400 to-teal-500 bg-clip-text text-transparent">
-              {" "}Bibi
+              {" "}Faizan
             </span>
           </a>
 
