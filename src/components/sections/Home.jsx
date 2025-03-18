@@ -10,15 +10,15 @@ export const Home = () => {
         <RevealOnScroll>
           <div className="max-w-2xl">
             <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-emerald-400 to-teal-500 bg-clip-text text-transparent leading-tight">
-              Hello, I'm Faizan
+              Hello, I'm Asma Ali
             </h1>
 
             <p className="text-gray-300 text-lg mb-8 leading-relaxed">
-              A Network Engineer and Full Stack Developer with a passion 
+{/*               A Network Engineer and Full Stack Developer with a passion 
               for building secure, scalable solutions. I combine networking expertise 
               with development skills and technical writing to create comprehensive 
               IT solutions. Focused on network optimization, web development, and 
-              sharing knowledge through technical documentation.
+              sharing knowledge through technical documentation. */}
             </p>
             
             <div className="flex space-x-4">
@@ -47,9 +47,9 @@ export const Home = () => {
               <div className="absolute inset-0 bg-gradient-to-br from-emerald-400/20 to-teal-500/20 rounded-2xl -z-10 blur-xl transform rotate-3"></div>
               <div className="w-full h-full rounded-2xl overflow-hidden border-2 border-emerald-500/20 relative">
                 <img
-                  src="https://res.cloudinary.com/diwerulix/image/upload/v1739447416/fai_m1txbt.jpg"
+{/*                   src="https://res.cloudinary.com/diwerulix/image/upload/v1739447416/fai_m1txbt.jpg"
                   alt="Muhammad Faizan - Network Engineer"
-                  className="w-full h-full object-cover object-center transform transition-transform duration-500 hover:scale-105"
+                  className="w-full h-full object-cover object-center transform transition-transform duration-500 hover:scale-105" */}
                 />
               </div>
             </div>
