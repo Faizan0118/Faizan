@@ -3,6 +3,21 @@ import { RevealOnScroll } from "../RevealOnScroll";
 export const Projects = () => {
   const projects = [
     {
+      title: "School Management System",
+      description: "A secure, role-based digital ecosystem that automates day to day school operations, connects stakeholders, and eliminates manual paperwork.",
+      technologies: ["CodeIgniter", "HTML", "CSS", "PHP", "jQuery", "Bootstrap", "MySQL"]
+    },
+    {
+      title: "Hospital Management System",
+      description: "A high-performance, role-based web application designed to modernize clinical administrative operations. By digitizing electronic health records, coordinating doctor schedules, and providing a clean dashboard, this system improves staff productivity, ensures regulatory data security, and reduces wait times for patients.",
+      technologies: ["CodeIgniter", "HTML", "CSS", "PHP", "jQuery", "Bootstrap", "MySQL"]
+    },
+    {
+      title: "Research Supervision & Information System",
+      description: "Modern Web Platform for Higher Education Research Management. A robust web-based solution engineered on PHP/CodeIgniter to optimize academic research supervision, eliminate timeline bottlenecks, and centralize institutional knowledge.",
+      technologies: ["CodeIgniter", "HTML", "CSS", "PHP", "jQuery", "Bootstrap", "MySQL"]
+    },
+    {
       title: "Parking System",
       description: "A comprehensive parking management system designed to streamline vehicle parking operations, track space availability, and manage parking fees efficiently.",
       technologies: ["C++"]
