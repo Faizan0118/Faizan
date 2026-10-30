@@ -54,10 +54,9 @@ export const Contact = () => {
                   <p className="flex items-center gap-2">
                     <Mail size={18} className="text-emerald-400" />
                     faizankalim699@gmail.com
-                    +92 324 5030584
                   </p>
                   <p className="flex items-center gap-2">
-                    <Mail size={18} className="text-emerald-400" />
+                    <Phone size={18} className="text-emerald-400" />
                     +92 324 5030584
                   </p>
                 </div>
